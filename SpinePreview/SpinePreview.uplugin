@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SpinePreview",
+	"Description": "Preview for Spine",
+	"Category": "Other",
+	"CreatedBy": "LiuZhuoLing",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SpinePreview",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "SpineData",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}

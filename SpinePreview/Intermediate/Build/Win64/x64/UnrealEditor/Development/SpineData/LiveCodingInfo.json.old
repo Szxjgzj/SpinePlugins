@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SpineData.cpp.obj": [
+			"SpineData.init.gen.cpp.obj",
+			"SpineMesh.gen.cpp.obj",
+			"SpineMeshFuncLibrary.gen.cpp.obj",
+			"SpineMesh.cpp.obj",
+			"SpineMeshFuncLibrary.cpp.obj",
+			"SpineData.cpp.obj"
+		]
+	}
+}

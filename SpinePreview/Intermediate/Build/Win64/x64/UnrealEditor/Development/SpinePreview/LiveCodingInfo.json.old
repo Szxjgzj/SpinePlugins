@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SpinePreview.cpp.obj": [
+			"SpineDetailTab.cpp.obj",
+			"SpineListTab.cpp.obj",
+			"SpineSingleItem.cpp.obj",
+			"SpineViewportTab.cpp.obj",
+			"SpineWindow.cpp.obj",
+			"SpinePreview.cpp.obj",
+			"SpinePreviewCommands.cpp.obj",
+			"SpinePreviewStyle.cpp.obj"
+		]
+	}
+}

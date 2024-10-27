@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SpineEditorPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UeWork\P_53_b\Intermediate\Build\Win64\x64\P_53_bEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"E:\UeWork\P_53_b\Plugins\SpinePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.cpp.obj"
+"E:\UeWork\P_53_b\Plugins\SpinePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpineEditorPlugin\Default.rc2.res"
+/OUT:"E:\UeWork\P_53_b\Plugins\SpinePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpineEditorPlugin\UnrealEditor-SpineEditorPlugin.lib"
